@@ -40,8 +40,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-Author: Akhil Chhibber
+Author: Hari Om Singh
 
-LinkedIn: https://www.linkedin.com/in/akhilchhibber/
+LinkedIn: https://www.linkedin.com/in/hari-om-singh-232868248/
 
-Medium Blogs: https://medium.com/@akhil.chibber
